@@ -125,6 +125,8 @@ uvicorn app.main:app --reload
 
 ## Video usage
 
+https://github.com/user-attachments/assets/e7e58154-90fe-452e-9fff-a48e11c8e41c
+
 ## Project Structure
 
 ```bash
